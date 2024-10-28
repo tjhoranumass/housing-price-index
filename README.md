@@ -29,7 +29,7 @@ house-price-prediction/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tjhoranumass/house-price-index.git
+   git clone https://github.com/tjhoranumass/housing-price-index.git
    cd house-price-prediction
    ```
 
